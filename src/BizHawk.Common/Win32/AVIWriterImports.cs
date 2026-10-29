@@ -1,5 +1,4 @@
 #nullable disable
-
 #if AVI_SUPPORT
 using System.Runtime.InteropServices;
 
